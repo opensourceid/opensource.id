@@ -1,0 +1,4 @@
+baseURL = "https://opensource.id/"
+languageCode = "en-us"
+title = "Open Source Indonesia"
+theme = "ananke"
